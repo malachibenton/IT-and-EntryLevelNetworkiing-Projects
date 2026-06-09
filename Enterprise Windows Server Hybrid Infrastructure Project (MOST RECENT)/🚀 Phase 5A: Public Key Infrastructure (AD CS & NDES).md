@@ -19,6 +19,4 @@
 <h2>💼 Phase 5A Skills Demonstrated: </h2>
 - <b> Public Key Infrastructure (PKI) | Active Directory Certificate Services (AD CS) | NDES / SCEP | Group Policy | Certificate Lifecycle Management | Enterprise Identity Security</b>
 <h2></h2>
-
-<h2></h2>
 <b> PROJECT BY MALACHI BENTON <br />
