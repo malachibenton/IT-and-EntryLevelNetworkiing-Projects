@@ -119,3 +119,9 @@ Phase 5B - To validate the RADIUS and Active Directory integration, I signed out
 <h2></h2>
 
 <b> PROJECT BY MALACHI BENTON <br />
+
+<h2>🚀 Phase 6: Windows Server Migration (Domain Controllers Phase): SOON </h2>
+<h2>🚀 Phase 6B: Windows Server Migration (Member Server Phase): SOON </h2>
+<h2>🚀 Phase 6C: Windows Server Migration (Member Server Enterprise Services Phase): SOON </h2>
+<h2>🚀 Phase 7: Microsoft Intune: (Mini Labs) SOON </h2>
+
