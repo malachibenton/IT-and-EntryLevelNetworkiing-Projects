@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project: 10/2025 - 05/2026 </h2>
 
-- [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/IT-and-EntryLevelNetworkiing-Projects/tree/main/Enterprise%20Windows%20Server%20Hybrid%20Infrastructure%20Project%20(MOST%20RECENT))
+- [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/IT-and-EntryLevelNetworkiing-Projects/tree/main/Enterprise%20Windows%20Server%20Hybrid%20Infrastructure%20Project)
 
 <h2> 🖧 Enterprise Network Infrastructure (CCNA) Project: 05/2025 - My First Ever Project  </h2>
 
